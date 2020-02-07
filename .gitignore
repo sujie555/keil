@@ -1,18 +1,17 @@
-!*.c 
-!*.h
-   *.log
-   *.plg
-   *.bak
-   *.dep
-   *.uvgui.*
-   JLinkLog.txt
-   *.o
-   *.d
-   *.crf
-   *.tra
-   *.axf
-   *.hex
-   *.lnp
-   *.sct
-   *.__i
-   *.htm
+*.axf
+*.o
+*.crf
+*.d
+*.htm
+*.map
+*.uvoptx
+*.uvoprojx
+*.iex
+*.hex
+*.sct
+*.dep
+*.bak
+*.lnp
+*.uvguix.*
+*.lst
+
